@@ -21,6 +21,15 @@ In this assignment, you’ll create and manipulate Pandas DataFrames to analyze 
 Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. Your latest role is Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
+Observations: 
+
+Looking at the tables, I've come to the conclusion that smaller schools have overall higher test averages. This could be due to the fact that the schools are able to provide more resources, and the teachers can spend more time working with the students. 
+
+Another observation from the data is that charter schools have higher average and percent passing scores. One possible reason for this is that it's probably easier for charter schools to get money for newer technology and recources than it is for district schools. When district schools need more money, they have to jump through a lot of hoops and put issuses on local ballots to be voted on. 
+
+
+
+
 
 ## Instructions
 
